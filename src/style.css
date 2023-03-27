@@ -26,12 +26,12 @@ header {
   color: #fff;
   font-size: 1.35rem;
 }
-.header-project {
+/* .header-project {
   margin-left: auto;
   color: #fff;
   font-weight: 500;
   font-size: 0.9rem;
-}
+} */
 main {
   padding: 36px;
 }
